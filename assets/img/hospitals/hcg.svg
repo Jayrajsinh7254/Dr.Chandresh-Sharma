@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 54" width="200" height="54" fill="none">
+      <rect width="200" height="54" rx="8" fill="#F8FAFC"/>
+      <g transform="translate(12, 10)">
+        <rect width="34" height="34" rx="7" fill="#1FA2A6"/>
+        <text x="17" y="22" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="800" fill="#FFFFFF" text-anchor="middle">HCG</text>
+      </g>
+      <text x="56" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#0B3C5D">HCG HOSPITALS</text>
+      <text x="56" y="38" font-family="'Inter', sans-serif" font-size="9" font-weight="600" fill="#6B7280" letter-spacing="1">AHMEDABAD CENTRE</text>
+    </svg>

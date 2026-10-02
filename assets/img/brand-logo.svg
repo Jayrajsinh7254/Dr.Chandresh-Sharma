@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 70" width="340" height="70" fill="none">
+  <!-- Medical Joint & Cross Symbol -->
+  <g transform="translate(10, 5)">
+    <rect x="0" y="0" width="56" height="56" rx="14" fill="#0B3C5D" />
+    <circle cx="28" cy="28" r="21" stroke="#1FA2A6" stroke-width="2.5" stroke-dasharray="85 20" stroke-linecap="round" />
+    <!-- Dynamic Joint Caduceus / Knee Axis -->
+    <path d="M28 14V42" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M14 28H42" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="28" cy="28" r="6" fill="#F59E0B" />
+    <path d="M20 20L36 36M20 36L36 20" stroke="#1FA2A6" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <!-- Text Brand -->
+  <g transform="translate(76, 20)">
+    <text x="0" y="14" font-family="'Plus Jakarta Sans', 'Segoe UI', system-ui, sans-serif" font-size="18" font-weight="800" fill="#0B3C5D" letter-spacing="-0.3">
+      DR. CHANDRESH SHARMA
+    </text>
+    <text x="0" y="32" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="11.5" font-weight="600" fill="#1FA2A6" letter-spacing="0.5">
+      MS, FARS (GERMANY) • ORTHOPEDIC &amp; JOINT SURGEON
+    </text>
+  </g>
+</svg>
